@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    font-family:'Pacifico';
+    overflow-x: hidden;
+}
+
+
+/*menu*/
+#menu li>a {
+    font-size:  30px; ;
+    font-weight: bold;
+    color: #3f3f3f;
+}
+
+#menu form>button {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* ============================== Carousel de imagenes ====================================*/
+.carrousel-inner {
+    max-height: 39rem;
+}
+
+
+/*media queries pantallas pequeñas*/
+
+@media (max-width:768px) {
+#intro {
+    width: 90% !important; } 
+}
+
+
+
+/*seguimos mañana*/
+https://www.youtube.com/watch?v=A5MF1mwmgRI al minuto 21
